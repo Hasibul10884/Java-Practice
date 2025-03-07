@@ -7,7 +7,7 @@ public class Product {
         String description = "perfect product with best image quality";
         String category = "phone";
 
-
+//print all
         System.out.println("id: " + id);
         System.out.println("title: " + title);
         System.out.println("price: " + price + " euros");
