@@ -15,7 +15,6 @@ public class Product {
         System.out.println("price: " + price + " euros");
         System.out.println("description: " + description);
         System.out.println("category: " + category);
-
         System.out.println("tab: " + tab);
 
 
