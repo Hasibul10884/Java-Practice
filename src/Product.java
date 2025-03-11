@@ -6,6 +6,8 @@ public class Product {
         double price = 1895.0;
         String description = "perfect product with best image quality";
         String category = "phone";
+        String tab = "Tab";
+
 
 //print all
         System.out.println("id: " + id);
@@ -13,6 +15,8 @@ public class Product {
         System.out.println("price: " + price + " euros");
         System.out.println("description: " + description);
         System.out.println("category: " + category);
+
+        System.out.println("tab: " + tab);
 
 
     }
