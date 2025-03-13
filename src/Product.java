@@ -1,6 +1,6 @@
 public class Product {
     public static void main(String[] args){
-
+//variable
         int id = 101;
         String title = "iphone15";
         double price = 1895.0;
